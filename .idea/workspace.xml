@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2caeca93-cbe7-4ad5-839d-af40cbb59c31" name="Changes" comment="Modules UI fixes | Text formatted Issue fixed | Object of each module modified.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="moeez" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabDefaultAccount">
+    <option name="defaultAccountId" value="539c0dec-60c9-4354-b21b-3871b0f9fc2d" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.3.8/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lxgs2XsBPWomK1GCN0dveboT8f" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;moeez&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/projects/next-js/reedu/app/dashboard/begin/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/PhpStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\next-js\reedu\app\dashboard\begin\components" />
+      <recent name="D:\projects\next-js\reedu\app\dashboard\modules\steps" />
+      <recent name="D:\projects\next-js\reedu\app\dashboard" />
+      <recent name="D:\projects\next-js\reedu\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\next-js\reedu\app\dashboard\modules\intro" />
+      <recent name="D:\projects\next-js\reedu\app\dashboard\begin" />
+      <recent name="D:\projects\next-js\reedu\app\dashboard" />
+      <recent name="D:\projects\next-js\reedu\app\(site)\(auth)\forgetpassword" />
+      <recent name="D:\projects\next-js\reedu\app\(site)\(auth)\signup" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2caeca93-cbe7-4ad5-839d-af40cbb59c31" name="Changes" comment="" />
+      <created>1726127350546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726127350546</updated>
+      <workItem from="1726127354491" duration="50000" />
+      <workItem from="1726127427051" duration="16447000" />
+      <workItem from="1726207616074" duration="129000" />
+      <workItem from="1726207772082" duration="6544000" />
+      <workItem from="1726222297324" duration="190000" />
+      <workItem from="1726642843829" duration="21543000" />
+      <workItem from="1726726509544" duration="24513000" />
+      <workItem from="1726812278408" duration="21948000" />
+      <workItem from="1727072628624" duration="2239000" />
+      <workItem from="1727078885999" duration="4716000" />
+      <workItem from="1727091845473" duration="221000" />
+      <workItem from="1727092389755" duration="714000" />
+      <workItem from="1727093588326" duration="8611000" />
+      <workItem from="1727157860052" duration="20623000" />
+      <workItem from="1727244785000" duration="22725000" />
+      <workItem from="1727331654821" duration="5305000" />
+      <workItem from="1727337348204" duration="11501000" />
+      <workItem from="1727417404394" duration="1203000" />
+      <workItem from="1727418684517" duration="14118000" />
+      <workItem from="1727677108527" duration="16225000" />
+      <workItem from="1727762626759" duration="24982000" />
+      <workItem from="1727849187418" duration="1414000" />
+      <workItem from="1727869309071" duration="5740000" />
+      <workItem from="1727937427664" duration="19287000" />
+      <workItem from="1728022298915" duration="13568000" />
+      <workItem from="1728281803044" duration="22016000" />
+      <workItem from="1728366708503" duration="8287000" />
+      <workItem from="1728375931500" duration="1451000" />
+      <workItem from="1728378112042" duration="6946000" />
+      <workItem from="1728390602623" duration="6226000" />
+      <workItem from="1728453337292" duration="3026000" />
+      <workItem from="1728542841592" duration="14652000" />
+      <workItem from="1728629794346" duration="3638000" />
+      <workItem from="1734596146418" duration="961000" />
+    </task>
+    <task id="LOCAL-00001" summary="New | Sidebar | Begin Page Layout.">
+      <option name="closed" value="true" />
+      <created>1727248553820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727248553820</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dashboard Layout Responsive Fixed | Begin Page Layout &amp; Module One.">
+      <option name="closed" value="true" />
+      <created>1727343066669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727343066669</updated>
+    </task>
+    <task id="LOCAL-00003" summary="build issue Fixed.">
+      <option name="closed" value="true" />
+      <created>1727965842893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727965842893</updated>
+    </task>
+    <task id="LOCAL-00004" summary="empty commit.">
+      <option name="closed" value="true" />
+      <created>1727966348429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727966348429</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Vercel file commit.">
+      <option name="closed" value="true" />
+      <created>1727967272149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727967272149</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Module One | Steps | State Managements | Modal &amp; redirecting.">
+      <option name="closed" value="true" />
+      <created>1728312941871</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728312941871</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Modules UI fixes | Text formatted Issue fixed | Object of each module modified.">
+      <option name="closed" value="true" />
+      <created>1728907543432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728907543432</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/moeez" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="New | Sidebar | Begin Page Layout." />
+    <MESSAGE value="Dashboard Layout Responsive Fixed | Begin Page Layout &amp; Module One." />
+    <MESSAGE value="Settings screen's track slider and track mp3 player with audio controls is implemented" />
+    <MESSAGE value="build issue Fixed." />
+    <MESSAGE value="empty commit." />
+    <MESSAGE value="Vercel file commit." />
+    <MESSAGE value="Module One | Steps | State Managements | Modal &amp; redirecting." />
+    <MESSAGE value="Modules UI fixes | Text formatted Issue fixed | Object of each module modified." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modules UI fixes | Text formatted Issue fixed | Object of each module modified." />
+  </component>
+</project>
